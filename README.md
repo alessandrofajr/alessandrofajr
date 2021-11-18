@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @alessandrofajr! I'm a journalist at [g1](https://g1.globo.com/tecnologia/), a major news website in Brazil.
-- 👀  I’m interested in data journalism.
-- 🌱  I’m currently learning Python.
+- 👀  Interested in data journalism.
+- 🌱  Currently learning Python.
 - 📫  You reach me [@alessandrofajr](https://twitter.com/alessandrofajr).
 
 <!---
