@@ -1,5 +1,5 @@
-- 👋  Hi, I’m @alessandrofajr! I'm a data journalist.
-- 👀  Interested in DataViz and Data Analysis.
+- 👋  Hi, I’m @alessandrofajr! I'm a data analyst / enginner.
+- 👀  Interested in Data Engineering, DataViz and Data Analysis.
 - 🌱  Currently learning Javascript.
 - 📫  You can reach me [@alessandrofajr](https://twitter.com/alessandrofajr).
 
