@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @alessandrofajr! I'm a data analyst / enginner.
 - 👀  Interested in Data Engineering, DataViz and Data Analysis.
-- 🌱  Currently learning Javascript.
-- 📫  You can reach me [@alessandrofajr](https://twitter.com/alessandrofajr).
+- 🌱  Always learning something.
+- 📫  You can reach me [@alessandrofajr]([https://twitter.com/alessandrofajr](https://www.linkedin.com/in/alessandrofajr/)).
 
 <!---
 alessandrofajr/alessandrofajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
